@@ -13,7 +13,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
-    "mongoose": "^5.12.11",
+    "mongoose": "^6.13.6",
     "socket.io": "^4.0.1"
   },
   "devDependencies": {
